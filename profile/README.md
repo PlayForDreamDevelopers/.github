@@ -1,7 +1,11 @@
 ## Hi there 👋🧑‍💻
-Welcome to the Github homepage for YVR developers! Here, you can browse our latest SDKs, sample code, and tutorials to get help with developing apps for YVR. 
+Welcome to the Play For Dream Developers! 
 
-If you have any questions or suggestions, please start a discussion on [GitHub Discussions](https://github.com/orgs/YVRDeveloper/discussions) or contact our technical support team. Your feedback is important to us as it helps us continuously improve the development experience for YVR.
+This is Play For Dream - YVR's official repository for open-source samples, covering the use of basic SDK features, rendering effects, performance display, interaction examples, etc. These samples aim to help you quickly get started on app development for Play For Dream - YVR headsets with Unity, Unreal, and Native. We will continue to maintain and update the samples for a better development experience. 
+
+If you have any questions or suggestions, please start a [discussion](https://github.com/orgs/YVRDeveloper/discussions) here, or directly contact our [technical support team](yvrdevelopers@yvr.cn). Your feedback is important to us as it helps us continuously improve the development experience for YVR.
+
+For more information, please visit the [Play For Dream Developer Platform](https://developer.yvrdream.com/#/).
 
 Looking forward to building immersive XR experiences together!
 
