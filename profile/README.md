@@ -5,7 +5,7 @@ This is Play For Dream - YVR's official repository for open-source samples, cove
 
 If you have any questions or suggestions, please start a [discussion](https://github.com/orgs/YVRDeveloper/discussions) here, or join our [Discord server](https://bit.ly/pfddevs) to get our technical support. Your feedback is important to us as it helps us continuously improve the development experience for YVR.
 
-For more information, please visit the [Play For Dream Developer Platform](https://developer.yvrdream.com/#/).
+For more information, please visit the [Play For Dream Developer Platform](https://developer.pfdm.cn).
 
 Looking forward to building immersive XR experiences together!
 
